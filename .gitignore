@@ -1,0 +1,2 @@
+# Ignore all .csv files in any directory named 'data' (including subdirectories)
+**/data/**/*.csv
